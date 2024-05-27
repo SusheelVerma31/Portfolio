@@ -33,10 +33,7 @@ export const Bio = {
   github: "https://github.com/SusheelVerma31",
   resume:
     "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
-  linkedin: "Please add a link",
-  twitter: "Please add a link",
-  insta: "Please add a link",
-  facebook: "Please add a link",
+  linkedin: "www.linkedin.com/in/susheel-verma-118695261",
 };
 
 export const skills = [
